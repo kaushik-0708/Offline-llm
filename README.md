@@ -1,4 +1,4 @@
-# 🤖 Offline OCR-Enhanced LLM
+# 🤖 Offline LLM
 
 An AI-powered Offline OCR-Enhanced Document Question Answering System built using Streamlit, ChromaDB, Ollama, SentenceTransformers, and OCR technologies.
 
