@@ -292,7 +292,7 @@ streamlit run app/ui.py
 # 👨‍💻 Author
 
 Kaushik Mane
-Artificial Intelligence & Data Science Engineer
+(Artificial Intelligence & Data Science Engineer)
 
 ---
 
